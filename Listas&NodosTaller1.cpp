@@ -56,7 +56,6 @@ int main(){
     delete quinto;
 
     getch();
-    
     return 0;
     system("pause");
 }
